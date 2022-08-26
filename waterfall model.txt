@@ -1,1 +1,3 @@
-this is a water model development documentation.
+This is a water model development documentation.
+Student class
+registration class
